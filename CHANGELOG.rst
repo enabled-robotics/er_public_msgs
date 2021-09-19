@@ -2,8 +2,8 @@
 Changelog for package er_public_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2021-09-19)
+------------------
 * Added parameters to program
 * Contributors: Niels Hvid
 
