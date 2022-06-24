@@ -2,8 +2,8 @@
 Changelog for package er_public_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.4.0 (2022-06-24)
+------------------
 * Added componentstatus msgs/srcs
 * Contributors: Niels Hvid
 
